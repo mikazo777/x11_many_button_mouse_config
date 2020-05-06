@@ -18,3 +18,7 @@ If you use mouse other than MX Revolution, do the following process.
 1. xinput --list
 2. Change the Identifier and MatchProduct to output device of "xinput --list".
 
+# Others
+Ubuntu doesn't need this file.
+In Wayland, this file isn't referenced.
+
