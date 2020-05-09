@@ -2,9 +2,8 @@
 For X window system, many button mouse config file
 
 # Overview
-In Fedora, CentOS, Redhat, Asianux,
-you can only use up to 10 mouse buttons with MX Revolution.
-So, you can't use Sum wheel buttons. 
+On Fedora, CentOS, Redhat and Asianux,
+you can only use up to 10 mouse buttons.
 But, if you use this file, you can up to 20 mouse buttons with your mouse.
 
 # How to use
@@ -20,5 +19,5 @@ If you use mouse other than MX Revolution, do the following process.
 
 # Others
 Ubuntu doesn't need this file.
-In Wayland, this file isn't referenced.
+On Wayland, this file isn't referenced.
 
